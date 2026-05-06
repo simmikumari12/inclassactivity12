@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915545659392",
+    "project_id": "inventory-app-4db07",
+    "storage_bucket": "inventory-app-4db07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915545659392:android:f3589e5c92758983afe0e5",
+        "android_client_info": {
+          "package_name": "com.simmi.inventoryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_2MQtr2F1_WQeEr7E-Ju4oP-N3XzExA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
