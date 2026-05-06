@@ -50,7 +50,7 @@ Add in `pubspec.yaml`:
 firebase_core: ^latest
 cloud_firestore: ^latest
 
-## ▶️ How to Run
+### ▶️ How to Run
 Step 1: Install dependencies
 flutter pub get
 Step 2: Run app
